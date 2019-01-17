@@ -10,7 +10,7 @@ namespace BookService.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "The Book Service - Home";
 
             return View();
         }
